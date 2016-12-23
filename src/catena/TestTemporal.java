@@ -10,7 +10,7 @@ import catena.parser.entities.TLINK;
 public class TestTemporal {
 
 public static void main(String[] args) throws Exception {
-		
+		//
 		String task = "tbdense";
 		
 		switch(task) {
